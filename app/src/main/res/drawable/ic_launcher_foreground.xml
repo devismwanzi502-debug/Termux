@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Left Bracket < (Cyber Teal) -->
+    <path
+        android:fillColor="#2DD4BF"
+        android:pathData="M 45,35 L 25,54 L 45,73 L 49,69 L 33,54 L 49,39 Z" />
+        
+    <!-- Right Bracket > (Cyber Teal) -->
+    <path
+        android:fillColor="#2DD4BF"
+        android:pathData="M 63,35 L 83,54 L 63,73 L 59,69 L 75,54 L 59,39 Z" />
+        
+    <!-- Middle Slash / (Cyber Purple) -->
+    <path
+        android:fillColor="#A855F7"
+        android:pathData="M 56,32 L 48,76 L 52,76 L 60,32 Z" />
+</vector>

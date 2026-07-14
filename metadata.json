@@ -1,0 +1,6 @@
+{
+  "name": "DevForge AI",
+  "description": "An AI-powered software development platform to generate, edit, and deploy web & mobile apps with a built-in cloud IDE, terminal, database designer, and team collaboration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
